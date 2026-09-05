@@ -171,6 +171,4 @@ Source code:
 
 [GitHub Repository](https://github.com/Zaid737/ai-orbit-companies?utm_source=chatgpt.com)
 
-## Notes
 
-This project was intentionally kept focused on the assignment requirements. The frontend demonstrates the backend functionality without adding unnecessary complexity, while the backend provides the main functionality through a structured REST API, validation, database relationships, filtering, searching, sorting, pagination, and CRUD operations.
